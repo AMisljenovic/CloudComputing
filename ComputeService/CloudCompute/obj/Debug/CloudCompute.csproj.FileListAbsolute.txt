@@ -1,0 +1,10 @@
+C:\Users\Saswert\Desktop\New folder\ComputeService\CloudCompute\bin\Debug\CloudCompute.exe.config
+C:\Users\Saswert\Desktop\New folder\ComputeService\CloudCompute\bin\Debug\CloudCompute.exe
+C:\Users\Saswert\Desktop\New folder\ComputeService\CloudCompute\bin\Debug\CloudCompute.pdb
+C:\Users\Saswert\Desktop\New folder\ComputeService\CloudCompute\bin\Debug\Contracts.dll
+C:\Users\Saswert\Desktop\New folder\ComputeService\CloudCompute\bin\Debug\Contracts.pdb
+C:\Users\Saswert\Desktop\New folder\ComputeService\CloudCompute\obj\Debug\CloudCompute.csprojResolveAssemblyReference.cache
+C:\Users\Saswert\Desktop\New folder\ComputeService\CloudCompute\obj\Debug\CloudCompute.csproj.CoreCompileInputs.cache
+C:\Users\Saswert\Desktop\New folder\ComputeService\CloudCompute\obj\Debug\CloudCompute.csproj.CopyComplete
+C:\Users\Saswert\Desktop\New folder\ComputeService\CloudCompute\obj\Debug\CloudCompute.exe
+C:\Users\Saswert\Desktop\New folder\ComputeService\CloudCompute\obj\Debug\CloudCompute.pdb

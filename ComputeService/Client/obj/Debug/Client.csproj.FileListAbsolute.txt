@@ -1,0 +1,10 @@
+C:\Users\Saswert\Desktop\New folder\ComputeService\Client\bin\Debug\Client.exe.config
+C:\Users\Saswert\Desktop\New folder\ComputeService\Client\bin\Debug\Client.exe
+C:\Users\Saswert\Desktop\New folder\ComputeService\Client\bin\Debug\Client.pdb
+C:\Users\Saswert\Desktop\New folder\ComputeService\Client\bin\Debug\Contracts.dll
+C:\Users\Saswert\Desktop\New folder\ComputeService\Client\bin\Debug\Contracts.pdb
+C:\Users\Saswert\Desktop\New folder\ComputeService\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Saswert\Desktop\New folder\ComputeService\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Saswert\Desktop\New folder\ComputeService\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Saswert\Desktop\New folder\ComputeService\Client\obj\Debug\Client.exe
+C:\Users\Saswert\Desktop\New folder\ComputeService\Client\obj\Debug\Client.pdb

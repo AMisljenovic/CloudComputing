@@ -1,0 +1,6 @@
+C:\Users\Saswert\Desktop\New folder\ComputeService\Contracts\bin\Debug\Contracts.dll
+C:\Users\Saswert\Desktop\New folder\ComputeService\Contracts\bin\Debug\Contracts.pdb
+C:\Users\Saswert\Desktop\New folder\ComputeService\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+C:\Users\Saswert\Desktop\New folder\ComputeService\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Saswert\Desktop\New folder\ComputeService\Contracts\obj\Debug\Contracts.dll
+C:\Users\Saswert\Desktop\New folder\ComputeService\Contracts\obj\Debug\Contracts.pdb
